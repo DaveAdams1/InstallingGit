@@ -22,7 +22,8 @@ To install on Windows use the Git website, http://git-scm.com/download/win or in
 http://windows.github.com
 
 ---
-Setting up Git for the first time with *git config* 
+Setting up Git for the first time with git config: 
+
 <br>
 *git config --global user.name "Your Name"*
 
