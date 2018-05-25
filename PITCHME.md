@@ -13,7 +13,9 @@ version us the OSX Git installer from http://git-scm.com/download/mac
 
 ---
 To install on Linux *$yum install git* or *apt-get install git* for debian based distros.
+
 <br>
+
 To install on Windows use the Git website, http://git-scm.com/download/win or install GitHub for Windows which includes a command line version of Git at
 http://windows.github.com
 
