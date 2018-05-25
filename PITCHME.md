@@ -9,7 +9,7 @@ press **F** key to go fullscreen.
 
 ---
 To install on a Mac, if running Mavericks (10.9) or above run *git* from the terminal, if not installed already you will be prompted. For the most current
-version us the OSX Git installer from http://git-scm.com/downloads/mac
+version us the OSX Git installer from http://git-scm.com/download/mac
 
 ---
 
