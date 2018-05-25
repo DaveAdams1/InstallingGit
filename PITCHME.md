@@ -15,7 +15,7 @@ press **F** key to go fullscreen.
 http://windows.github.com </span>
 
 ---
-Setting up Git for the first time with git config:
+**Setting up Git for the first time with git config:**
 <br>
 <span style="font-size:0.6em">To set your user name:</span> <span style="font-size:0.6em; color:blue">*$ git config --global user.name "Your Name"*</span>
 <br>
