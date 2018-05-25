@@ -8,7 +8,7 @@ For the *best viewing experience*
 press **F** key to go fullscreen.
 
 ---
-To install on a Mac, if running Mavericks (10.9) or above run *git* from the terminal, if not installed already you will be prompted. 
+To install on a Mac, if running Mavericks (10.9) or above run *git* from the terminal, if not installed already you will be prompted.
 <br>
 
 For the most current version use the OSX Git installer from http://git-scm.com/download/mac
@@ -22,16 +22,15 @@ To install on Windows use the Git website, http://git-scm.com/download/win or in
 http://windows.github.com
 
 ---
-Setting up Git for the first time with git config: 
-
+Setting up Git for the first time with git config:
 <br>
-<span style="font-size:0.6em; color:gray">*git config --global user.name "Your Name"*
-
+<span style="font-size:0.6em; color:gray">To set your user name </span>
+<span style="font-size:0.6em; color:gray">*git config --global user.name "Your Name"*</span>
 <br>
 *git config --global user.email "you@blah.com"*
 
 <br>
-*git congig --global core.editor vi* 
+*git congig --global core.editor vi*
 <br>
 **Subsitute vi with your favourite editor**
 </span>
