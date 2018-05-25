@@ -28,7 +28,9 @@ Setting up Git for the first time - *git config* is what you need.
 <br>
 *git config --global user.email "you@blah.com"*
 <br>
-*git congig --global core.editor vi* **Pick your own flavour here**
+*git congig --global core.editor vi* 
+<br>
+Subsitute vi with your favourite editor
 ---
 
 ## Markdown Slides
