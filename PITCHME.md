@@ -8,17 +8,10 @@ For the *best viewing experience*
 press **F** key to go fullscreen.
 
 ---
-To install on a Mac, if running Mavericks (10.9) or above run *git* from the terminal, if not installed already you will be prompted.
-<br>
-
-For the most current version use the OSX Git installer from http://git-scm.com/download/mac
-
----
+<span style="font-size:0.6em">To install on a Mac, if running Mavericks (10.9) or above run</span><span style="font-size:0.6em; color:blue"> *$ git* from the terminal, if not installed already you will be prompted.</span>
+<span style="font-size:0.6em">For the most current version use the OSX Git installer from http://git-scm.com/download/mac</span>
 <span style="font-size:0.6em">To install on Linux: </span><span style="font-size:0.6em; color:blue">*$ yum install git*</span><br>
 <span style="font-size:0.6em">For debian based distros</span><span style="font-size:0.6em; color:blue">*$ apt-get install git*</span>
-
-<br>
-
 <span style="font-size:0.6em">To install on Windows use the Git website, http://git-scm.com/download/win or install GitHub for Windows which includes a command line version of Git at
 http://windows.github.com </span>
 
