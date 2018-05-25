@@ -14,7 +14,7 @@ To install on a Mac, if running Mavericks (10.9) or above run *git* from the ter
 For the most current version use the OSX Git installer from http://git-scm.com/download/mac
 
 ---
-To install on Linux *$yum install git* or *apt-get install git* for debian based distros.
+<span style="font-size:0.6em">To install on Linux:</span><span style="font-size:0.6em; color:blue">*$yum install git* or *apt-get install git* for debian based distros.</span>
 
 <br>
 
