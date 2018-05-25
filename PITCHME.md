@@ -1,5 +1,4 @@
-##### <span style="font-family:Helvetica Neue; font-weight:bold">How to install <span style="color:#e49436">Git</span> in your local
-machine</span>
+##### <span style="font-family:Helvetica Neue; font-weight:bold">How to install <span style="color:#e49436">Git</span> on your local machine</span>
 
 ---
 @title[Theme Switcher]
