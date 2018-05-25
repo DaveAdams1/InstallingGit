@@ -23,8 +23,11 @@ http://windows.github.com
 
 ---
 Setting up Git for the first time - *git config* is what you need.
+<br>
 *git config --global user.name "Your Name"*
+<br>
 *git config --global user.email "you@blah.com"*
+<br>
 *git congig --global core.editor vi* **Pick your own flavour here**
 ---
 
