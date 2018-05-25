@@ -1,5 +1,5 @@
-@title[Introduction]
-## The Kitchen Sink
+@Installing Git
+## How to install and configure Git on your local machine
 ##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Git</span>Pitch Feature Tour</span>
 
 ---
