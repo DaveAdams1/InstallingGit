@@ -22,15 +22,17 @@ To install on Windows use the Git website, http://git-scm.com/download/win or in
 http://windows.github.com
 
 ---
-Setting up Git for the first time - *git config* is what you need.
+Setting up Git for the first time with *git config* 
 <br>
 *git config --global user.name "Your Name"*
+
 <br>
 *git config --global user.email "you@blah.com"*
+
 <br>
 *git congig --global core.editor vi* 
 <br>
-Subsitute vi with your favourite editor
+**Subsitute vi with your favourite editor**
 ---
 
 ## Markdown Slides
