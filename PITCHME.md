@@ -24,7 +24,7 @@ http://windows.github.com
 ---
 Setting up Git for the first time with git config:
 <br>
-<span style="font-size:0.6em; color:blue">To set your user name <span style="font-size:0.6em; color:blue">*git config --global user.name "Your Name"*</span>
+<span style="font-size:0.6em; color:blue">To set your user name</span> <span style="font-size:0.6em; color:blue">*git config --global user.name "Your Name"*</span>
 <br>
 *git config --global user.email "you@blah.com"*
 
