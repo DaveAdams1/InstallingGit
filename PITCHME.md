@@ -1,13 +1,6 @@
 ##### <span style="font-family:Helvetica Neue; font-weight:bold">How to install <span style="color:#e49436">Git</span> on your local machine</span>
 
 ---
-@title[Theme Switcher]
-
-## Slideshow Theme Switcher
-<span style="font-size:0.6em; color:gray">Available inside burger-menu.</span> |
-<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
-
----
 @title[Go Fullscreen]
 
 ## Tip!
