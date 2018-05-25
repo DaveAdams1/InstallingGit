@@ -18,8 +18,8 @@ To install on Linux *$yum install git* or *apt-get install git* for debian based
 
 <br>
 
-To install on Windows use the Git website, http://git-scm.com/download/win or install GitHub for Windows which includes a command line version of Git at
-http://windows.github.com
+<span style="font-size:0.6em">To install on Windows use the Git website, http://git-scm.com/download/win or install GitHub for Windows which includes a command line version of Git at
+http://windows.github.com </span>
 
 ---
 Setting up Git for the first time with git config:
