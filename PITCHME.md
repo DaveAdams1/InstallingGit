@@ -22,6 +22,11 @@ To install on Windows use the Git website, http://git-scm.com/download/win or in
 http://windows.github.com
 
 ---
+Setting up Git for the first time - *git config* is what you need.
+*git config --global user.name "Your Name"*
+*git config --global user.email "you@blah.com"*
+*git congig --global core.editor vi* **Pick your own flavour here**
+---
 
 ## Markdown Slides
 <span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
