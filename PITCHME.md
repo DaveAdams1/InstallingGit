@@ -9,6 +9,8 @@ press **F** key to go fullscreen.
 
 ---
 To install on a Mac
+If running Mavericks (10.9) or above run *git* from the terminal, if not installed already you will be prompted.
+
 ---
 
 ## Markdown Slides
