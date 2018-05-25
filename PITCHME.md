@@ -29,7 +29,6 @@ Setting up Git for the first time with git config:
 <span style="font-size:0.6em">To set your email:</span> <span style="font-size:0.6em; color:blue">*$ git config --global user.email "you@blah.com"*</span>
 <br>
 <span style="font-size:0.6em">To set your editor:</span> <span style="font-size:0.6em; color:blue">*$ git config --global core.editor vi*</span>
-<br>
 <span style="font-size:0.6em">**Substitute vi with your favourite editor**</span>
 </span>
 ---
