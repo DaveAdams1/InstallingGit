@@ -8,8 +8,8 @@ For the *best viewing experience*
 press **F** key to go fullscreen.
 
 ---
-To install on a Mac, if running Mavericks (10.9) or above run *git* from the terminal, if not installed already you will be prompted. For the most current
-version us the OSX Git installer from http://git-scm.com/download/mac
+To install on a Mac, if running Mavericks (10.9) or above run *git* from the terminal, if not installed already you will be prompted. 
+For the most current version use the OSX Git installer from http://git-scm.com/download/mac
 
 ---
 To install on Linux *$yum install git* or *apt-get install git* for debian based distros.
