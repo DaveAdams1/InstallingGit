@@ -25,7 +25,7 @@ http://windows.github.com
 Setting up Git for the first time with git config: 
 
 <br>
-*git config --global user.name "Your Name"*
+<span style="font-size:0.6em; color:gray">*git config --global user.name "Your Name"*
 
 <br>
 *git config --global user.email "you@blah.com"*
@@ -34,6 +34,7 @@ Setting up Git for the first time with git config:
 *git congig --global core.editor vi* 
 <br>
 **Subsitute vi with your favourite editor**
+</span>
 ---
 
 ## Markdown Slides
