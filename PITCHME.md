@@ -1,4 +1,4 @@
-## How to install and configure <span style="color:blue:>Git</span> on your local machine
+## How to install and configure Git on your local machine
 ##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Git</span>Pitch Feature Tour</span>
 
 ---
