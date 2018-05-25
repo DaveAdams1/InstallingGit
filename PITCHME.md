@@ -8,6 +8,8 @@ For the *best viewing experience*
 press **F** key to go fullscreen.
 
 ---
+To install on a Mac
+---
 
 ## Markdown Slides
 <span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
